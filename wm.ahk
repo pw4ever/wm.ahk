@@ -1,3 +1,6 @@
+#SingleInstance Force
+
+
 ;;; RAlt prefixed hotkeys: Use left hand for key.
 
 SendMode InputThenPlay
